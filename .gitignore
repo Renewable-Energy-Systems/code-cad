@@ -1,0 +1,22 @@
+# --- Python ----------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+.venv
+
+# --- IDEs / editors -------------------------------------------
+.vscode/
+.idea/
+*.sw?
+
+# --- OS cruft --------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# --- Outputs created by the script -----------------------------
+outputs/**   # <- everything under ./outputs/ (drawings, logs, etc.)

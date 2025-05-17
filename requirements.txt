@@ -1,0 +1,2 @@
+# AutoCAD automation depends on Microsoft’s COM libraries
+pywin32>=305
